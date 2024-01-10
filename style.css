@@ -41,3 +41,8 @@ body{
 
     
 }
+
+.col:hover{
+    background:white;
+    cursor:pointer;
+}
